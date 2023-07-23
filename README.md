@@ -6,6 +6,7 @@ Lasso regression adds the sum of the absolute values of the coefficients as a pe
 Cost function = Sum of squared errors + λ * (sum of absolute values of coefficients)
 
 Ridge Regression (L2 Regularization):
+
 Ridge regression, on the other hand, adds the sum of squared values of the coefficients as a penalty term to the loss function during training. The objective of Ridge regression is to minimize the following cost function:
 Cost function = Sum of squared errors + λ * (sum of squared values of coefficients)
 
