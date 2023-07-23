@@ -14,3 +14,6 @@ Cost function = Sum of squared errors + λ * (sum of squared values of coefficie
 
 both Lasso (L1 regularization) and Ridge (L2 regularization) regression techniques are used to control the complexity of linear regression models and prevent overfitting. Lasso encourages sparsity by driving some coefficients to zero, while Ridge shrinks the coefficients toward zero without setting them exactly to zero. The choice between Lasso and Ridge regularization depends on the specific characteristics of the dataset and the goals of the modeling task. In some cases, a combination of both (Elastic Net) may be employed to benefit from both types of regularization.
 
+![image](https://github.com/MMuttalib1326/L1-and-L2-Regularization-Lasso-Ridge-Regression/assets/64772188/201a74ce-da9f-41e7-90ed-fbabc696109d)
+
+
